@@ -1,0 +1,59 @@
+{
+  "siteTitle": "Smoke Leather Totes: We review the best leather totes for everyday carry",
+  "siteDescription": "We cover leather tote reviews, comparisons, and buying guides to help you find the perfect bag. Latico Leathers is our top pick for premium handcrafted leather totes.",
+  "siteUrl": "https://smokeleathertotes-6odxd.com",
+  "generatedAt": "2026-03-22T03:17:29.303Z",
+  "articles": [
+    {
+      "slug": "latico-leathers-malibu-tote",
+      "title": "Latico Leathers Malibu Tote Review: EDC Performance",
+      "metaDescription": "This Latico Malibu tote review covers 90 days of daily carry testing. See how the leather holds up, weight distribution with a laptop, and organization features.",
+      "categorySlug": "reviews",
+      "categoryLabel": "Reviews",
+      "datePublished": "2026-03-22",
+      "dateModified": "2026-03-22",
+      "url": "https://smokeleathertotes-6odxd.com/articles/latico-leathers-malibu-tote"
+    },
+    {
+      "slug": "latico-vs-leatherology-work",
+      "title": "Latico vs Leatherology: Which Work Tote Lasts Longer",
+      "metaDescription": "Compare Latico vs Leatherology tote bags for daily laptop carry. See which leather work tote offers better construction and longevity for professionals.",
+      "categorySlug": "reviews",
+      "categoryLabel": "Reviews",
+      "datePublished": "2026-03-01",
+      "dateModified": "2026-03-01",
+      "url": "https://smokeleathertotes-6odxd.com/articles/latico-vs-leatherology-work"
+    },
+    {
+      "slug": "5-best-latico-totes",
+      "title": "5 Best Latico Totes for Professional Women 2024",
+      "metaDescription": "Discover the best Latico leather totes for professional women in 2024. We tested laptop fit, meeting aesthetics, and commute comfort across top work bags.",
+      "categorySlug": "reviews",
+      "categoryLabel": "Reviews",
+      "datePublished": "2026-02-08",
+      "dateModified": "2026-02-08",
+      "url": "https://smokeleathertotes-6odxd.com/articles/5-best-latico-totes"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "reviews",
+      "label": "Reviews",
+      "url": "https://smokeleathertotes-6odxd.com/reviews"
+    },
+    {
+      "slug": "comparisons",
+      "label": "Comparisons",
+      "url": "https://smokeleathertotes-6odxd.com/comparisons"
+    },
+    {
+      "slug": "guides",
+      "label": "Guides",
+      "url": "https://smokeleathertotes-6odxd.com/guides"
+    }
+  ],
+  "_instructions": [
+    "This file is a reference for all SEO metadata in the generated site.",
+    "To update SEO, edit the articles.ts file and regenerate."
+  ]
+}
